@@ -1,7 +1,7 @@
-# BDSI Workshop: ggplot
+# BDSI Presentation: GitHub
 
-This repo contains an Rmd file that was created during the BDSI 2024 workshop for ggplot, provided by Mike Kleinsasser.
-It utilizes GitHub Pages to present the knitted HTML file from RStudio as a website.
+This repo contains all the files I should need to give the GitHub presentation for BDSI 2024.
 
-The URL to the GitHub Pages site can be found in the About section of the repository. The URL typically follows the following syntax:
-username.github.io/Repository_Name/
+## Example plot
+
+![ex1.png](ex1.png)
